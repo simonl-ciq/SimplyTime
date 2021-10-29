@@ -1,0 +1,7 @@
+<resources>
+	<strings>
+		<string id="recordTitle">Record time to FIT file?</string>
+		<string id="recordOff">No</string>
+		<string id="recordOn">Yes</string>
+	</strings>
+</resources>

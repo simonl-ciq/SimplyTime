@@ -1,0 +1,17 @@
+<resources>
+    <strings>
+        <string id="ra_label">Time</string>
+        <string id="ra_graph_label">Clock Time</string>
+        <string id="ra_units">Hr.Mn</string>
+    </strings>
+    <fitContributions>
+        <fitField id="0"
+        displayInChart="true"
+        sortOrder = "0"
+        precision="2"
+        chartTitle="@Strings.ra_graph_label"
+        dataLabel="@Strings.ra_label"
+        unitLabel="@Strings.ra_units"
+        fillColor="#FF0000" />
+    </fitContributions>
+</resources>    
